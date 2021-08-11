@@ -36,6 +36,6 @@ output[7: 0] d_o,
             LSFR_8[7:1] <= LSFR_8[6:0];
             LSFR_8[0] <= ~^{LSFR_8[7], LSFR_8[5:3]};
         end
-
+assdas
     assign d_o = LSFR_8;
 endmodule
