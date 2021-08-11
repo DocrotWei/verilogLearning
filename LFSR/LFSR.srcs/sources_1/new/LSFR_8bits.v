@@ -38,4 +38,5 @@ output[7: 0] d_o,
         end
 
     assign d_o = LSFR_8;
+    asdasd;
 endmodule
